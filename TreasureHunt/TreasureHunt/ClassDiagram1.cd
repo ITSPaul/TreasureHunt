@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TreasureHunt.Classes.Collectable" Collapsed="true">
+    <Position X="4.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAQAAACAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Collectable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Classes.PlayScene" Collapsed="true">
+    <Position X="1.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAACAAAAAgAAAAAAAAAAAAAAAAAAAAAAgAgAICQ=</HashCode>
+      <FileName>Classes\PlayScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Classes.Scene" Collapsed="true">
+    <Position X="1.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAIAAAAAIgAAAAIgAAAAAAAAgAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Classes\Scene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sprites.SimpleSprite" Collapsed="true">
+    <Position X="6" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAgAgAAAAAAAAAAAAABAIAAABAAAAAAA=</HashCode>
+      <FileName>Classes\SimpleSprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TreasureHunt.Classes.TreasureChest" Collapsed="true">
+    <Position X="7.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAIIAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Classes\TreasureChest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InputEngineNS.InputEngine" Collapsed="true">
+    <Position X="6.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hIQgAICAgAAIAAABBAAIAQAAuAgAARAAAigEgAgTAAI=</HashCode>
+      <FileName>Utilities\InputManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Xna.Framework.DrawableGameComponent" Collapsed="true">
+    <Position X="4" Y="2" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TreasureHunt.TextEffect" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQAAAAAAAAAAhAAAgAAIAAAAAAAAAAIAAAAgAAAAAQ=</HashCode>
+      <FileName>TextEffect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Xna.Framework.GameComponent" Collapsed="true">
+    <Position X="4" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Enum Name="Classes.STATE" Collapsed="true">
+    <Position X="1.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABEAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Classes\Scene.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

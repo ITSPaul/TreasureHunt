@@ -10,6 +10,7 @@ using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Media;
 using Sprites;
 using Classes;
+using InputEngineNS;
 
 namespace TreasureHunt
 {
@@ -36,6 +37,8 @@ namespace TreasureHunt
         protected override void Initialize()
         {
             // TODO: Add your initialization logic here
+            new InputEngine(this);
+            
             new PlayScene(this, "Play", 
                 Content.Load<Texture2D>(@".\Assets\treasure-Island"));
             base.Initialize();

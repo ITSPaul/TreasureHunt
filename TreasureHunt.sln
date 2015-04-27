@@ -5,7 +5,7 @@ VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreasureHunt", "TreasureHunt\TreasureHunt\TreasureHunt.csproj", "{DF0BC90E-E110-43AD-B05C-4E7D0B0F16AF}"
 EndProject
-Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "TreasureHuntContent", "TreasureHunt\TreasureHuntContent\TreasureHuntContent.contentproj", "{21AFC690-20A8-4558-9DF3-EA129F3AA8F6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreasureHuntContent", "TreasureHunt\TreasureHuntContent\TreasureHuntContent.contentproj", "{21AFC690-20A8-4558-9DF3-EA129F3AA8F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
