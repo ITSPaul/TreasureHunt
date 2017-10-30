@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.30723.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreasureHunt", "TreasureHunt\TreasureHunt\TreasureHunt.csproj", "{DF0BC90E-E110-43AD-B05C-4E7D0B0F16AF}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreasureHuntContent", "TreasureHunt\TreasureHuntContent\TreasureHuntContent.contentproj", "{21AFC690-20A8-4558-9DF3-EA129F3AA8F6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreasureHunt", "TreasureHunt\TreasureHunt.csproj", "{1B967F13-B447-4575-952F-571D9802AF39}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,12 +11,10 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DF0BC90E-E110-43AD-B05C-4E7D0B0F16AF}.Debug|x86.ActiveCfg = Debug|x86
-		{DF0BC90E-E110-43AD-B05C-4E7D0B0F16AF}.Debug|x86.Build.0 = Debug|x86
-		{DF0BC90E-E110-43AD-B05C-4E7D0B0F16AF}.Release|x86.ActiveCfg = Release|x86
-		{DF0BC90E-E110-43AD-B05C-4E7D0B0F16AF}.Release|x86.Build.0 = Release|x86
-		{21AFC690-20A8-4558-9DF3-EA129F3AA8F6}.Debug|x86.ActiveCfg = Debug|x86
-		{21AFC690-20A8-4558-9DF3-EA129F3AA8F6}.Release|x86.ActiveCfg = Release|x86
+		{1B967F13-B447-4575-952F-571D9802AF39}.Debug|x86.ActiveCfg = Debug|x86
+		{1B967F13-B447-4575-952F-571D9802AF39}.Debug|x86.Build.0 = Debug|x86
+		{1B967F13-B447-4575-952F-571D9802AF39}.Release|x86.ActiveCfg = Release|x86
+		{1B967F13-B447-4575-952F-571D9802AF39}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
